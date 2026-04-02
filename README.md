@@ -1,6 +1,6 @@
 # NEXAR — Signal Intelligence Terminal
 
-> Real-time signal intelligence terminal for prediction markets.  
+> Real-time signal intelligence terminal for prediction markets.
 > Military flights · Whale wallets · OSINT · Telegram · X/Twitter — live, mapped, actionable.
 
 ---
